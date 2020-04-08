@@ -1,5 +1,5 @@
-require_relative "./teacher.rb"
-class User < Teacher
+
+class User
   attr_accessor :fname, :lname
   
 end
